@@ -1,4 +1,2 @@
-simple application, that calculate the total cost of grocery items.
-we make data that are const into separate file.
-make function to calculate the total of all grocery items,
-adding taxes for the total price.
+## Grocery Application: Total Price Calculation
+This Dart program calculates the total price of items in a grocery list, including tax. It sums up the prices of the items, then calculates and displays the total price before and after taxes.
